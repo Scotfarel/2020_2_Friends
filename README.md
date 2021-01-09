@@ -2,9 +2,12 @@
 
 ## [Презентация](https://docs.google.com/presentation/d/1jX4J33MJHk7rHxervw6eWCnRkbbuXDsk1m8o7_kbjqA/edit?usp=sharing)
 Мы - команда "Друзья", представляем разработанный нами в течении семетра сервис доставки вегетарианского питания - "Трава у дома"!
+[Трава у дома](https://grassnearhome.ru/)
 Используемые технологии:
 - JavaScript
 - Go
+
+
 
 ## Вы находитесь в репозитории фронтенда!
 
